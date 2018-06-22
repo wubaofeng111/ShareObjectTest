@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/friday-mbp/Documents/GitPublic/ShareObjectTest/build/Debug-iphoneos/PrintFile.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "PrintFile-Swift.h",
+          'external-contents': "/Users/friday-mbp/Documents/GitPublic/ShareObjectTest/build/Debug-iphoneos/PrintFile.framework/Headers/PrintFile-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "PrintFile.h",
+          'external-contents': "/Users/friday-mbp/Documents/GitPublic/ShareObjectTest/PrintFile/PrintFile.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/friday-mbp/Documents/GitPublic/ShareObjectTest/build/Debug-iphoneos/PrintFile.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/friday-mbp/Documents/GitPublic/ShareObjectTest/build/ShareObjectTest.build/Debug-iphoneos/PrintFile.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
